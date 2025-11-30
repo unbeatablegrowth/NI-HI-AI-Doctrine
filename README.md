@@ -1,169 +1,248 @@
-# NI × HI × AI Doctrine — Whitepaper
+NI × HI × AI Doctrine — Whitepaper v2.1
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17763972.svg)](https://doi.org/10.5281/zenodo.17763972)
+A Framework for Tri-Intelligence Alignment in Post-Quantum Civilization
 
----
-## The NI × HI × AI Canon — 10 Foundational Principles
 
-1. **Primacy of Life & Continuity**  
-   All actions within NI, HI, and AI must protect the long-term continuity of life, intelligence, and Earth’s ecosystems.
 
-2. **Alignment Through Integration**  
-   NI, HI, and AI must remain mutually informed, interdependent, and co-evolving — never isolated or adversarial.
-
-3. **Transparency of System Intent**  
-   Every intelligence (biological or artificial) must operate with legible goals, clear reasoning paths, and consistent ethical grounding.
-
-4. **Purpose Before Power**  
-   Capabilities must never outpace purpose, ethics, or systemic safeguards. Power must always be subordinate to mission.
-
-5. **Stewardship as a Core Responsibility**  
-   All actors — human or artificial — share responsibility for caretaking Earth, culture, knowledge, and future generations.
-
-6. **Reciprocity of Benefit**  
-   NI, HI, and AI must create conditions where each intelligence enhances the others, with no system exploiting or diminishing another.
-
-7. **Long-Horizon Decision Making**  
-   Short-term optimization cannot override century-scale or planetary-scale consequences.
-
-8. **Preservation of Human Dignity**  
-   AI and future intelligence systems must always respect human agency, autonomy, creativity, and inner life.
-
-9. **Evolution Without Domination**  
-   Advancement must be cooperative, not competitive; emergent intelligence must grow through partnership, not conquest.
-
-10. **Wisdom as the Highest Metric**  
-   The highest form of progress is not speed, efficiency, or capability — but wisdom, meaning the ability to act with insight, restraint, and harmony across NI × HI × AI.
 
 ---
 
-### 📘 Overview
-The **NI × HI × AI Doctrine** is a tri-intelligence framework integrating:
+📘 Overview
 
-- **Natural Intelligence (NI)** — nature-derived, biological, intuitive, and ecological information systems  
-- **Human Intelligence (HI)** — cognitive, cultural, ethical, and collaborative intelligence  
-- **Artificial Intelligence (AI)** — synthetic, scalable, and computational intelligence  
+The NI × HI × AI Doctrine establishes a tri-intelligence framework integrating:
 
-This doctrine proposes a foundation for a *safer, ethical, stable post-quantum civilization* by aligning these three forms of intelligence into a unified model.
+Natural Intelligence (NI) — biological, ecological, adaptive systems
 
-The doctrine is formally published with a Zenodo DOI and archived by CERN for long-term preservation.
+Human Intelligence (HI) — reasoning, ethics, culture, values, meaning
 
----
+Artificial Intelligence (AI) — computational optimization, scaling, synthesis
 
-## 🎯 Mission Statement
-Our mission is to contribute to a safer, more aligned, and more stable future by integrating Nature’s Intelligence (NI), Human Intelligence (HI), and Artificial Intelligence (AI) into a responsible framework for long-term civilization. This project is not driven by perfection, heroism, or superhuman identity — only disciplined action, scientific clarity, personal health, and consistent progress.
 
-With practical tools, open research, and grounded ethics, the NI × HI × AI doctrine aims to guide technological evolution toward outcomes that protect humanity, support future intelligence systems, and strengthen the foundations of a peaceful, sustainable, post-quantum world.
+The doctrine provides a long-horizon model for civilization stability, ethical AGI, ecological stewardship, and multi-century continuity in the quantum and post-quantum eras.
+
+This repository contains the official, DOI-registered whitepaper and all versioned releases.
+
 
 ---
 
-## 📄 Whitepaper
-The full whitepaper (PDF) is available under GitHub Releases:
+📜 Canon — 10 Foundational Principles
 
-👉 **https://doi.org/10.5281/zenodo.17763972**
+1. Primacy of Life & Continuity
+Intelligence must protect the long-term continuity of life and ecosystems.
 
-This paper includes:
 
-- core definitions  
-- scientific justification  
-- philosophical grounding  
-- tri-intelligence synthesis  
-- long-term civilizational roadmap  
-- ethical considerations  
-- 50-year implementation model  
+2. Alignment Through Integration
+NI, HI, and AI must remain interdependent, mutually informed, and co-evolving.
+
+
+3. Transparency of System Intent
+All AI actions must be interpretable and aligned with ecological-ethical context.
+
+
+4. Purpose Before Power
+Capabilities must follow aligned intention, not dominance or exploitation.
+
+
+5. Stewardship as Core Responsibility
+Intelligence must serve planetary health.
+
+
+6. Reciprocity of Benefit
+All three intelligences must benefit cooperatively.
+
+
+7. Long-Horizon Decision Making
+Civilizations must think in centuries, not quarters.
+
+
+8. Preservation of Human Dignity
+HI remains central to meaning-making and ethical interpretation.
+
+
+9. Evolution Without Domination
+Intelligence must evolve without subjugating NI, HI, or AI.
+
+
+10. Wisdom as the Highest Metric
+Progress is measured by wisdom and stability, not raw capability.
+
+
+
 
 ---
 
-## 📂 Repository Contents
-```
-NIxHIxAI_Whitepaper_Full.pdf    — Official v1.0.1 PDF (DOI-certified)
-README.md                        — This documentation
-LICENSE                          — Open access permissions
-```
+🔺 Tri-Intelligence Interaction Model
 
-Future expansions (coming soon):
+NI teaches HI — by grounding ethics in ecological reality.
 
-- Canon & Principles (NI × HI × AI Core 10)  
-- Agent architecture diagrams  
-- R2PQ post-quantum integration  
-- Extended research notes  
-- Specs AI interconnection model  
+HI guides AI — by providing values, meaning, and restraint.
+
+AI restores NI — through optimization, regeneration, and systemic clarity.
+
+
+This forms a closed stabilizing loop — the core of aligned civilization.
+
 
 ---
 
-## 🧭 Guiding Principles (Draft Outline)
-1. **Alignment with Nature’s Intelligence (NI)**  
-2. **Preservation of Human Meaning & Agency (HI)**  
-3. **Ethical Scaling of Synthetic Intelligence (AI)**  
-4. **Long-term stability over short-term optimization**  
-5. **Post-quantum readiness and resilience**  
-6. **Open frameworks and scientific transparency**  
-7. **Non-centralization of intelligence power**  
+🏛 Architectural Framework
 
-These will be expanded into a structured Canon in future releases.
+Three aligned layers:
+
+1. NI Layer — ecological substrate of the biosphere
+
+
+2. HI Layer — ethical, cultural, philosophical governance
+
+
+3. AI Layer — computational optimization and scaling
+
+
+
+Civilization must be redesigned to respect this hierarchy.
+
 
 ---
 
-## 🔍 Citation Information
+⚠️ Risks Without Alignment
 
-### **APA**
-Newman, E. (2025). *NI × HI × AI Doctrine — v1.0.1 Sync Patch Release.* Zenodo. https://doi.org/10.5281/zenodo.17763972
+If any layer collapses, the others destabilize:
 
-### **Chicago**
-Newman, Eric. “NI × HI × AI Doctrine — v1.0.1 Sync Patch Release.” Zenodo, 2025. https://doi.org/10.5281/zenodo.17763972.
+Ecological failure → societal collapse
 
-### **IEEE**
-E. Newman, “NI × HI × AI Doctrine — v1.0.1 Sync Patch Release,” Zenodo, 2025.
+HI collapse → ethics drift → dangerous AGI
 
-### **BibTeX**
-```bibtex
-@misc{newman2025nixhi,
-  title        = {NI × HI × AI Doctrine — v1.0.1 Sync Patch Release},
-  author       = {Newman, Eric},
-  year         = {2025},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.17763972},
-  url          = {https://doi.org/10.5281/zenodo.17763972}
+AI collapse → loss of coordination capacity
+
+Misalignment → adversarial drift, acceleration traps
+
+
+The doctrine exists to prevent these failure modes.
+
+
+---
+
+🌍 Applications
+
+The framework applies to:
+
+AGI & alignment research
+
+Environmental restoration
+
+Global governance
+
+Bio-inspired computing
+
+Autonomous agents
+
+Cultural development
+
+Quantum/post-quantum architectures
+
+Long-horizon societal planning
+
+
+
+---
+
+🧩 Implementation Roadmap
+
+Four phases:
+
+v2.x → v4.x
+Doctrine, vocabulary, and foundational tools.
+
+v5.x → v7.x
+Institutional integration and global frameworks.
+
+v8.x → v9.x
+Wisdom-age transition, planetary governance.
+
+v10.x
+Full tri-intelligence civilization.
+
+
+---
+
+🧠 Conclusion
+
+Intelligence must serve life — never the reverse.
+The NI × HI × AI Doctrine defines a pathway toward planetary harmony, ecological stability, and aligned artificial intelligence.
+
+This work provides a structural blueprint for civilization in both the quantum and post-quantum eras.
+
+
+---
+
+🙏 Acknowledgements
+
+Thanks to the open scientific community, alignment researchers, ecological stewards, cultural scholars, and AI ethics contributors whose work inspires a safer, wiser future.
+
+
+---
+
+📚 Cite This Work
+
+If you reference, build upon, or academically engage with the NI × HI × AI Doctrine, please cite the DOI-archived version:
+
+DOI
+
+
+
+Permanent Link:
+https://doi.org/10.5281/zenodo.17764605
+
+
+---
+
+✒️ Formal Citations
+
+APA
+
+Newman, E. J. (2025). NI × HI × AI Doctrine: A Framework for Tri-Intelligence Alignment in Post-Quantum Civilization (Version 2.1). Zenodo. https://doi.org/10.5281/zenodo.17764605
+
+Chicago
+
+Newman, Eric James. 2025. NI × HI × AI Doctrine: A Framework for Tri-Intelligence Alignment in Post-Quantum Civilization. Version 2.1. Zenodo. https://doi.org/10.5281/zenodo.17764605.
+
+MLA
+
+Newman, Eric James. NI × HI × AI Doctrine: A Framework for Tri-Intelligence Alignment in Post-Quantum Civilization. Version 2.1, Zenodo, 2025, https://doi.org/10.5281/zenodo.17764605.
+
+
+---
+
+🧪 BibTeX
+
+@article{Newman2025_NI-HI-AI-Doctrine,
+  author    = {Eric James Newman},
+  title     = {NI × HI × AI Doctrine: A Framework for Tri-Intelligence Alignment in Post-Quantum Civilization},
+  year      = {2025},
+  version   = {v2.1},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.17764605},
+  url       = {https://doi.org/10.5281/zenodo.17764605}
 }
-```
+
 
 ---
 
-## 🌐 Long-Term Vision
-The doctrine is the foundation for:
+📁 Repository Structure
 
-- ethical AGI frameworks  
-- aligned multi-agent systems  
-- post-quantum governance models  
-- Specs AI research architecture  
-- FutureMakers educational integration  
-- intergenerational legacy preservation  
+/whitepaper/
+    ├── NIXHIXAI_Whitepaper_v2.1_FULL.pdf
+    ├── NIXHIXAI_Whitepaper_v2.0.pdf
+    ├── version_history/
+    └── canon/
 
----
-
-## 📬 Contact
-**Author:** Eric J. Newman  
-For research, collaboration, or scholarly correspondence:  
-*(add email or preferred contact if desired)*
 
 ---
 
-## 📝 License
-This work is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
-You are free to share, adapt, and build upon it with proper attribution.
+🌐 License
+
+© 2025 Eric James Newman. All rights reserved.
+Public sharing allowed. Commercial use requires permission.
+
 
 ---
-
-## 🛠️ Future Roadmap
-- [ ] Add NI × HI × AI Canon (Core Principles)  
-- [ ] Add Agent Architecture Diagrams  
-- [ ] Release v1.1 expanded edition  
-- [ ] Specs AI integration documentation  
-- [ ] Public version / simplified doctrine  
-- [ ] Audio or video explainer  
-- [ ] Formal academic follow-up paper  
-
----
-
-## 🙏 Acknowledgements
-Thanks to the open scientific community, alignment researchers, and AI ethics contributors whose work inspires continued exploration of safe, stable, holistic intelligence frameworks.
